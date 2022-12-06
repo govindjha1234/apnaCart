@@ -1,0 +1,18 @@
+{
+  "signup": [
+    {
+      "name": "govind ",
+      "mobile": 7761013343,
+      "email": "govind7654@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Raman jha",
+      "mobile": 7488690879,
+      "email": "ramanjha1234@gmail.com",
+      "password": "gkumar1234",
+      "id": 2
+    }
+  ]
+}

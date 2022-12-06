@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/flipkart-shopping",
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "0e555017-0f83-420d-8010-f01ba7013d63"
   }
 }
